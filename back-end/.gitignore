@@ -1,5 +1,7 @@
 hana-back-end
 hana-back-end/
+__pycache__
 __pycache__/
+
 
 .env
